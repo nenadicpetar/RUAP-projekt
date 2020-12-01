@@ -6,7 +6,7 @@ namespace LV1_ruap
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdrav iz aplikacije od Petar Nenadić");
+            Console.WriteLine("Pozdrav iz aplikacije od Petar Nenadić, AI4450");
         }
     }
 }
